@@ -32,7 +32,3 @@ http://localhost:8000
 * HTML
 * CSS
 
-
-
-
-
